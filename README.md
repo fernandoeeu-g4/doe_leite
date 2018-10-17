@@ -1,5 +1,4 @@
 # doe_leite
-Projeto da disciplina tópicos integradores I, UNAMA.
+Projeto da disciplina tópicos integradores I, UNAMA. <br>
+Live: http://doeleite.000webhostapp.com/
 
-Live: https://fernandoacouto.000webhostapp.com/
-site premeditado para funcionar apenas em celulares, ignorar imcompatibilidade da versão desktop.
