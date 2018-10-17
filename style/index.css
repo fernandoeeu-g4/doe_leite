@@ -1,0 +1,69 @@
+.navbar-inicio-nav {
+  background-color: #e6e6fa;
+}
+
+#slogan {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#sub-slogan {
+  font-size: 25px;
+}
+
+body {
+  background-color: #fadbfa;
+}
+
+.hero-home {
+  background-color: #fadbfa;
+}
+
+.card {
+  background-color: inherit ;
+}
+
+.hero-leite {
+  background-color: #dda0dd;
+
+}
+
+.body-leite, {
+  margin-bottom: 200px;
+}
+
+.hero-contato h1, .hero-leite h1 {
+  text-align: center;
+}
+
+
+.card-content > p, .hero-contato h1, .hero-leite h1,  {
+  text-align: right;
+}
+
+.lista-leite > li {
+  width: 400px;
+}
+
+.lista-leite > li:hover {
+  color: gray;
+}
+
+.hero-contato {
+  background-color: #ff9999;
+}
+
+.box-img {
+  border: 1px black solid;
+}
+
+.box-img:hover {
+  transform:scale(1.05);
+  transition: 0.3s;
+}
+
+.text-img {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
